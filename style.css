@@ -197,8 +197,15 @@ a {
 .logotxt {
   color: #fff;
   font-family: "Cormorant Infant", serif;
+  /* font-family: "Poppins", sans-serif; */
+  /* font-weight: 600; */
   font-size: 40px;
   font-weight: bold;
+}
+
+.dotSpace{
+  margin-left: 5px;
+  margin-right: 2px;
 }
 
 .logocont {
